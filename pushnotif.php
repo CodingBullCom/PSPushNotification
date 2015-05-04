@@ -1,4 +1,18 @@
 <?php
+/*
+-------------------------------------------------------------------- 
+                  PSPushNotification License, version 1.0
+	Author: Pawan Kumar Singh			Email: pawan4444@gmail.com
+	Copyright (c)2015 Pawan Kumar Singh
+--------------------------------------------------------------------
+
+Redistribution and use of this source code for commercial or 
+non-commercial purpose is permitted without any restriction
+except keep this licence information unchanged. This piece of
+software code comes WITHOUT ANY WARRANTY. Please check 
+http://opensource.org/licenses/GPL-3.0 for detailed licence agreement.
+
+*/
 
 class PSPushNotification
 {
