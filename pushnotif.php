@@ -54,7 +54,7 @@ class PSPushNotification
 		if($environment == $this->production){
 		
 			$this->environment = $environment;
-			$this->private_key_file_name = $this->production_socket_endpoint;
+			$this->private_key_file_name = $this->production_private_key_file_name;
 			$this->apn_socket_end_point = $this->production_socket_endpoint;				
 		}else{
 
