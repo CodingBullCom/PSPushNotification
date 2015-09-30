@@ -14,3 +14,5 @@ $psPushNotif = new PSPushNotification();
 $psPushNotif->setupEnvironment(2, 'Some sample push notification');  
 $psPushNotif->sendNotificationForDeviceTokenArray($deviceTokenArray);  
 
+#To Create Push Certificate
+Please follow instruction given at http://www.apptuitions.com/generate-pem-file-for-push-notification/
